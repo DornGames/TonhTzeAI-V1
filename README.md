@@ -1,5 +1,7 @@
 # TonhTzeAI-V1 "𣿅子一号"《𣿅子集》LSTM 文言文仿写器
 
+<img src="https://dornhub.eu.org/resources/images/TonhTzeAI/TonhTzeAI-logo-v1-light.svg" alt="TonhTzeAI-logo-v1-light" width="400">
+
 基于字符级 LSTM + Top‑p 采样的文言对话生成工具。  
 自动从《𣿅子集校注》PDF 中提取人物对话（“𣿅子曰：...”等），训练一个轻量级 LSTM 模型，然后生成风格相似的文言新句子。
 
